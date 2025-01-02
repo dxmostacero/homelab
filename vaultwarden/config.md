@@ -1,4 +1,4 @@
-## Configuracao inicial
+## Configuração inicial
 
 ```sh
 sudo apt-get update
@@ -76,4 +76,10 @@ services:
 
 ```sh
 sudo docker compose up -d
+```
+
+### Referencia:
+
+```sh
+https://github.com/dani-garcia/vaultwarden
 ```
