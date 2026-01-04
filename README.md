@@ -103,6 +103,14 @@ No homelab rodam servidores Linux, Active Directory, bancos de dados, ferramenta
 
 ---
 
+## 📊 Infográfico da Rede
+
+
+<p align="center">
+  <img src="assets/network_map.svg" width="700">
+</p>
+
+---
 ## 🚀 Aplicações em Produção / Running Applications
 
 ### Proxmox
@@ -224,6 +232,15 @@ The homelab runs Linux servers, Active Directory, databases, monitoring tools, N
 
 
 ---
+
+## 📊 Network Infographic
+
+
+
+<p align="center">
+  <img src="assets/network_map.svg" width="700">
+</p>
+
 
 ## 🚀 Production / Running Applications
 
